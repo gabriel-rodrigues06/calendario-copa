@@ -30,6 +30,12 @@ header{
     text-align: center;
 }
 
+#cards{
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+}
+
 .card{  
     border: 1px solid transparent;
     padding: 22px 32px;
